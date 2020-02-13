@@ -1,0 +1,10 @@
+
+public class NameProject {
+
+	public static void main(String[] args) {
+		
+		String name = "Petr";
+		System.out.println(name.toUpperCase());
+	}
+
+}
